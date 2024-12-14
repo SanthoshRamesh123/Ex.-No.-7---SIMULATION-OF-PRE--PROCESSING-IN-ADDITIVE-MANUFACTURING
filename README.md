@@ -50,8 +50,8 @@
 
 ## Output:
 
-### Name: RAGUL RAAJAN T
-### Register Number: 23007752
+### Name: SANTHOSH .R
+### Register Number: 24900830
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
